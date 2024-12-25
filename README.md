@@ -1,1 +1,1 @@
-# AuthDemo
+# bycrypt Authentication Demo
